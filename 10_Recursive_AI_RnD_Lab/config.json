@@ -1,0 +1,8 @@
+{
+  "model_name": "recursive-ai",
+  "api_url": "http://localhost:11434/api/generate",
+  "log_directory": "./logs",
+  "snapshot_directory": "./snapshots",
+  "strategy_plugin_dir": "./strategy_plugins",
+  "max_recursion_depth": 5
+}

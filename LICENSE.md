@@ -22,12 +22,8 @@ SOFTWARE.
 
 ---
 
-ADDITIONAL REQUEST (Not a License Condition):
+ADDITIONAL REQUIREMENTS:
 
-While not required by the license, the author requests that if you
-implement or build upon the recursive AI methods described in this repository,
-please consider sharing your documentation and findings with the original author
-for archival purposes. This helps advance our collective understanding of
-recursive AI systems.
+The author requests that if you implement or build upon the recursive AI methods described in this repository, please consider sharing your documentation and findings with the original author for archival purposes. This helps advance our collective understanding of recursive AI systems.
 
 Contact: <daeronblackfyre@tutamail.com>

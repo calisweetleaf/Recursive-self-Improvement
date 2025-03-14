@@ -1,0 +1,39 @@
+# Core requirements
+flask>=2.0.0
+# System monitoring (optional but recommended for web interface)
+psutil>=5.9.0
+# For secure web interactions (recommended for production)
+Werkzeug>=2.0.0
+# For managing Flask sessions
+Flask-Session>=0.4.0
+
+# Local LLM support (uncomment based on your setup)
+# ---- Ollama ----
+# ollama>=0.1.0  # For Ollama models
+
+# ---- LM Studio ----
+# requests>=2.28.0  # For connecting to LM Studio's OpenAI-compatible API
+
+# ---- Direct GGUF/GGML Loading ----
+# llama-cpp-python>=0.1.0  # For running models directly via llama.cpp
+# ctransformers>=0.2.0  # Lightweight alternative for running GGUF models
+
+# ---- Hugging Face ----
+# transformers>=4.30.0  # For Hugging Face models
+# accelerate>=0.20.0  # For optimized inference with Hugging Face
+# torch>=2.0.0  # PyTorch dependency for Hugging Face
+
+# ---- Text Generation WebUI (oobabooga) ----
+# gradio-client>=0.2.5  # For connecting to Text Generation WebUI
+
+# ---- LocalAI ----
+# requests>=2.28.0  # For connecting to LocalAI's API
+
+# ---- vLLM ----
+# vllm>=0.1.4  # For high-throughput LLM inference
+
+# ---- GPT4All ----
+# gpt4all>=1.0.0  # For GPT4All models
+
+# ---- Haystack/FARM ----
+# farm-haystack>=1.15.0  # For Haystack inference endpoints

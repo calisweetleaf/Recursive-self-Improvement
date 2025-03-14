@@ -1,0 +1,8 @@
+{
+    "model_service": "your_model_service_command",
+    "model_endpoint": "your_model_endpoint",
+    "model_parameters": {
+        "param1": "value1",
+        "param2": "value2"
+    }
+}
