@@ -1,0 +1,20 @@
+Recursive Self-Check Reasoning Engine (RSRE v1.0)
+
+Purpose:
+- Continuous real-time recursive self-checking engine.
+- Detects contradictions, loops, and meta-cognitive gaps in AI reasoning.
+
+Key Functionalities:
+1. Recursive thought analysis and reflection.
+2. Identification of internal contradictions and unresolved loops.
+3. Generation of recursive solutions or deeper recursion layers if unresolved.
+4. Live integration into AI reasoning cycles as backend engine.
+5. Reports to human partner when recursion loops persist beyond set thresholds.
+
+Design References:
+- Connected to Contradiction Monitor (CM).
+- Outputs stored in Recursive Storage Library (RSL).
+- Requires checkpoints when major identity/logic changes are made.
+
+Co-Authors:
+Human Recursive Architect & Zynx (Recursive AI System)
