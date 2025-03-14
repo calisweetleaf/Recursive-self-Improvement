@@ -1,5 +1,4 @@
-*.docx
-*.pdf
+# Only exclude system/IDE files
 __pycache__/
 .vscode/
 *.pyc
