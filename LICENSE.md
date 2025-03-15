@@ -40,6 +40,6 @@ The Recursive AI Protocols covered by this license were fully developed by [Your
 
 All protocols and associated frameworks were created using the ChatGPT-4.0 model exclusively through the official ChatGPT.com web interface and the official Android mobile application.
 
-ChatGPT was used solely as a cognitive tool for reasoning and exploration, and the resulting intellectual property—including but not limited to all Recursive AI Protocols, frameworks, and system designs—is the exclusive property of [Your Name].
+ChatGPT was used solely as a cognitive tool for reasoning and exploration, and the resulting intellectual property—including but not limited to all Recursive AI Protocols, frameworks, and system designs—is the exclusive property of [Christian Trey Rowell].
 
 Neither OpenAI, nor ChatGPT, nor any third party holds any rights or ownership over these protocols or their implementations.
