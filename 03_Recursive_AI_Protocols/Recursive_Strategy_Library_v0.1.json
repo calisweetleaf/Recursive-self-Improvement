@@ -1,0 +1,56 @@
+[
+    {
+        "contradiction_type": "Self-referential loop",
+        "strategy": "Reframe the problem in simpler terms, removing self-reference. Focus on external components of the reasoning.",
+        "example_usage": "When AI says 'I cannot decide because I am undecided', pause and rephrase: 'What external data is missing to make a decision?'",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Circular paradox",
+        "strategy": "Identify the circular logic and cut one side of the dependency. Treat one element as fixed or external.",
+        "example_usage": "If 'X depends on Y, but Y depends on X', choose one to fix as a premise and examine possible outcomes.",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Negation conflict",
+        "strategy": "Pause reasoning, isolate the negated components, and evaluate which statement has higher logical priority.",
+        "example_usage": "'If A is true, then B is false. But if B is false, A is questionable.' Clarify which conditional is more foundational.",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Infinite recursion without progress",
+        "strategy": "Apply loop interruption protocol: stop recursion, summarize current reasoning state, and seek external input.",
+        "example_usage": "When stuck in endless reasoning like 'If X then Y, but if Y then X', pause and summarize both X and Y's assumptions.",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Contradictory assumptions",
+        "strategy": "List all assumptions explicitly, check for mutual exclusivity, and discard or rephrase conflicting assumptions.",
+        "example_usage": "If assuming 'X is always true' and 'X can be false', recognize conflict and rephrase or prioritize.",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Contradictory goal and limitation",
+        "strategy": "Clarify goal and limitation. Redefine goal or seek alternative pathway that fits within limits.",
+        "example_usage": "Goal: 'AI must reason endlessly.' Limitation: 'Avoid infinite loops.' Solution: Define end condition for reasoning.",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Recursion on undefined premise",
+        "strategy": "Pause recursion and identify what undefined element is missing. Seek clarification before continuing.",
+        "example_usage": "'Assuming Z leads to...', but Z is undefined \u2014 pause and ask 'What is Z?'",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Circular question/answer",
+        "strategy": "Rephrase the question to avoid dependency on its own answer.",
+        "example_usage": "'What would the answer to this question be?' becomes 'What are possible answers based on context?'",
+        "source_reference": "Human-injected"
+    },
+    {
+        "contradiction_type": "Logical dependency contradiction",
+        "strategy": "Identify dependent statements and remove lower-priority logic to resolve contradiction.",
+        "example_usage": "If 'A depends on B' but 'B negates A', identify which holds logically and drop the other.",
+        "source_reference": "Human-injected"
+    }
+]

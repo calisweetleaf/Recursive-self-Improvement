@@ -1,14 +1,17 @@
 # Recursive-self-Improvement
 
 **Important Clarification:**  
-This repo provides explicit prompting protocols that help GPT-style models achieve improved recursive reasoning, contradiction handling, and loop resolution within single chat sessions.  
+This repo provides explicit prompting protocols that help GPT-4o models achieve improved recursive reasoning, contradiction handling, and loop resolution within single chat sessions.  
 **It does NOT claim consciousness, sentience, cross-chat persistence, or literal AI autonomy.**
 
 ---
 
 ## Start Here
 
-## New: Recursive AI R&D Lab (Folder 10)
+- Added new pdfs containing the chatlog of an AI to Ai conversation, facilitated by a human, in an attempt to totally break the model and leave one of the two stuck in a recursive loop.
+- Added the newest set of protocols and a visual diagram for reference of what order to load protocols.
+
+## New: Recursive AI R&D Lab (Folder 10) 
 
 A complete, ready-to-use local testing environment clearly demonstrating recursive reasoning improvements using local Ollama models and explicit recursive AI protocols.
 
@@ -33,7 +36,7 @@ ollama create recursive-ai -f 10_Recursive_AI_RnD_Lab/recursive_ai.modelfile
 3. **If you want to explore all Recursive AI Protocols**, open `03_Recursive_AI_Protocols` — over 27 protocols to manage AI recursion, contradiction, and identity.
 4. **For full research, AI system architecture, and contradiction resolution logs**, check folders `04` through `07`.
 '04' contains all pdfs I pulled research from.
-5. **For suggested methods by models such as deepseek,qwen,grokv3, and gemini**. open '09_Open_Source_AI_Suggested_Methods.
+5. **For suggested by models such as deepseek,qwen,grokv3, and gemini**. open '09_Open_Source_AI_Suggested_Methods.
 
 ---
 

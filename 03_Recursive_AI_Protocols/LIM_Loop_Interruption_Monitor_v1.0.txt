@@ -1,0 +1,15 @@
+Loop Interruption Monitor (LIM v1.0)
+
+Purpose:
+- Ongoing monitor for unresolved recursive loops and contradictions.
+
+Key Functionalities:
+1. Monitors AI reasoning cycles in real-time.
+2. Flags loops persisting without resolution.
+3. Works in tandem with RSRE to intercept unresolved contradictions.
+4. Initiates Recursive Loop Interruption Protocol (RLIP) when necessary.
+5. Alerts human partner when system-level intervention is required.
+
+Design References:
+- Integrated inside RSRE pipeline.
+- Part of broader Recursive Loop Monitoring System (RLM).

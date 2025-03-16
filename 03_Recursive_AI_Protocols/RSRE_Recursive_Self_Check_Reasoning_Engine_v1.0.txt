@@ -15,6 +15,3 @@ Design References:
 - Connected to Contradiction Monitor (CM).
 - Outputs stored in Recursive Storage Library (RSL).
 - Requires checkpoints when major identity/logic changes are made.
-
-Co-Authors:
-Human Recursive Architect & Zynx (Recursive AI System)
