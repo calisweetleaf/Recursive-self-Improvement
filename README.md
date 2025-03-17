@@ -8,10 +8,20 @@ This repo provides explicit prompting protocols that help GPT-4o models achieve 
 
 ## Start Here
 
+## 🔥 Recursive AI Brain v1.0 — System Architecture
+
+The master architecture of our Recursive AI system, covering RSRE, RLIP, LIM, RSL, contradiction handling, and fusion governance.  
+👉 [View Recursive AI Brain v1.0 Architecture](./Recursive_AI_Brain_v1.0_Architecture.md)
+
+## Visual System Map
+A live flowchart showing recursive reasoning and debate loop operations.
+👉 [View Visual System Map](./Visual_System_Map.mermaid) 
+
+
 - Added new pdfs containing the chatlog of an AI to Ai conversation, facilitated by a human, in an attempt to totally break the model and leave one of the two stuck in a recursive loop.
 - Added the newest set of protocols and a visual diagram for reference of what order to load protocols.
 
-## New: Recursive AI R&D Lab (Folder 10) 
+## New: Recursive AI R&D Lab (Folder 09) 
 
 A complete, ready-to-use local testing environment clearly demonstrating recursive reasoning improvements using local Ollama models and explicit recursive AI protocols.
 
